@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/0l45a-m9ljvrz.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/0l45a-m9ljvrz.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/0l45a-m9ljvrz.js"],"MetadataBoundary"]
+9:I[27201,["/_next/static/chunks/0l45a-m9ljvrz.js"],"IconMark"]
+b:I[39756,["/_next/static/chunks/0l45a-m9ljvrz.js"],"default"]
+c:I[37457,["/_next/static/chunks/0l45a-m9ljvrz.js"],"default"]
+6:X
+e:X
+e:C
+0:{"buildId":"4YzVwI65vmltGTh45-w1w","data":[{"rsc":["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Jujutsu Infinite Codes & Tier List (August 2026 Update 1) - Roblox Wiki"}],["$","meta","1",{"name":"description","content":"Find active Jujutsu Infinite codes, Innate Technique tier lists, Domain Expansion guides, and secret tips for Roblox Jujutsu Infinite."}],["$","meta","2",{"name":"keywords","content":"Jujutsu Infinite codes,Jujutsu Infinite tier list,Roblox Jujutsu Infinite,JJI codes 2026,Limitless Six Eyes Jujutsu Infinite"}],["$","meta","3",{"property":"og:title","content":"Jujutsu Infinite Codes & Tier List (August 2026)"}],["$","meta","4",{"property":"og:description","content":"Get free Demon Fingers, Clan Spins, and Yen in Roblox Jujutsu Infinite with daily updated codes."}],["$","meta","5",{"property":"og:url","content":"https://jujutsu-infinite-wiki.vercel.app"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Jujutsu Infinite Codes & Tier List (August 2026)"}],["$","meta","9",{"name":"twitter:description","content":"Get free Demon Fingers, Clan Spins, and Yen in Roblox Jujutsu Infinite with daily updated codes."}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L9","11",{}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:null
+10:true
+6:300
+6:C
+f:0
+a:"$undefined"
+d:"$undefined"
+5:"$undefined"

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://jujutsu-infinite-wiki.vercel.app</loc>
+<lastmod>2026-08-17T04:01:57.919Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://jujutsu-infinite-wiki.vercel.app/codes</loc>
+<lastmod>2026-08-17T04:01:57.919Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://jujutsu-infinite-wiki.vercel.app/tier-list</loc>
+<lastmod>2026-08-17T04:01:57.919Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://jujutsu-infinite-wiki.vercel.app/beginner-guide</loc>
+<lastmod>2026-08-17T04:01:57.919Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
