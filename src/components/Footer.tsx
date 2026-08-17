@@ -21,9 +21,9 @@ export const Footer = () => {
             </ul>
           </div>
           <div>
-            <h4 className="text-purple-300 font-semibold text-sm mb-2">Roblox Wiki Matrix</h4>
+            <h4 className="text-purple-300 font-semibold text-sm mb-2">Community Disclaimer</h4>
             <p className="text-xs text-gray-400">
-              Part of the 7-site SEO network powering active gaming communities on Roblox.
+              Unofficial fan-made wiki created for Roblox Jujutsu Infinite players. All game assets belong to their respective creators.
             </p>
           </div>
         </div>
