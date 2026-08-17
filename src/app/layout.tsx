@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: 'Jujutsu Infinite Codes & Tier List (August 2026)',
     description: 'Get free Demon Fingers, Clan Spins, and Yen in Roblox Jujutsu Infinite with daily updated codes.',
     type: 'website',
-    url: 'https://jujutsu-infinite-wiki.vercel.app',
+    url: 'https://jujutsuinfinite.robloxwikihub.com',
   },
 };
 

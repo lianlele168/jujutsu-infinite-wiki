@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://jujutsu-infinite-wiki.vercel.app/sitemap.xml',
+    sitemap: 'https://jujutsuinfinite.robloxwikihub.com/sitemap.xml',
   };
 }
