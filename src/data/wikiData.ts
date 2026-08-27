@@ -25,25 +25,25 @@ export const ACTIVE_CODES: CodeItem[] = [
     code: "UPDATE1_RELEASE",
     rewards: "100 Demon Fingers, 50 Clan Spins, 10,000 Yen",
     status: "active",
-    addedDate: "2026-08-17"
+    addedDate: "2026-08-27"
   },
   {
     code: "INFINITE_SPINS_500K",
     rewards: "75 Innate Spins, 25 Stat Resets",
     status: "active",
-    addedDate: "2026-08-15"
+    addedDate: "2026-08-27"
   },
   {
     code: "SIX_EYES_GOJO",
     rewards: "30 Clan Spins, Double EXP (2 Hours)",
     status: "active",
-    addedDate: "2026-08-10"
+    addedDate: "2026-08-27"
   },
   {
     code: "CURSED_ENERGY_BOOST",
     rewards: "5,000 Yen, 20 Demon Fingers",
     status: "active",
-    addedDate: "2026-08-01"
+    addedDate: "2026-08-27"
   }
 ];
 
