@@ -1,9 +1,22 @@
 [
   {
-    "route": "/",
-    "firstLoadUncompressedJsBytes": 461421,
+    "route": "/calculator",
+    "firstLoadUncompressedJsBytes": 475125,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\0l45a-m9ljvrz.js",
+      ".next\\static\\chunks\\0do-rrmaskjy7.js",
+      ".next\\static\\chunks\\3zew1b97e2dzb.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\08ttfj81-47mu.js",
+      ".next\\static\\chunks\\0td_q_jvg2olo.js",
+      ".next\\static\\chunks\\turbopack-1ht71va82inkw.js"
+    ]
+  },
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 461647,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\0do-rrmaskjy7.js",
       ".next\\static\\chunks\\310vm2bl3xxpt.js",
       ".next\\static\\chunks\\19mx3mg6lkumu.js",
       ".next\\static\\chunks\\08ttfj81-47mu.js",
@@ -13,9 +26,9 @@
   },
   {
     "route": "/_not-found",
-    "firstLoadUncompressedJsBytes": 461421,
+    "firstLoadUncompressedJsBytes": 461647,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\0l45a-m9ljvrz.js",
+      ".next\\static\\chunks\\0do-rrmaskjy7.js",
       ".next\\static\\chunks\\310vm2bl3xxpt.js",
       ".next\\static\\chunks\\19mx3mg6lkumu.js",
       ".next\\static\\chunks\\08ttfj81-47mu.js",
@@ -25,9 +38,9 @@
   },
   {
     "route": "/beginner-guide",
-    "firstLoadUncompressedJsBytes": 461421,
+    "firstLoadUncompressedJsBytes": 461647,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\0l45a-m9ljvrz.js",
+      ".next\\static\\chunks\\0do-rrmaskjy7.js",
       ".next\\static\\chunks\\310vm2bl3xxpt.js",
       ".next\\static\\chunks\\19mx3mg6lkumu.js",
       ".next\\static\\chunks\\08ttfj81-47mu.js",
@@ -37,9 +50,9 @@
   },
   {
     "route": "/codes",
-    "firstLoadUncompressedJsBytes": 461421,
+    "firstLoadUncompressedJsBytes": 461647,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\0l45a-m9ljvrz.js",
+      ".next\\static\\chunks\\0do-rrmaskjy7.js",
       ".next\\static\\chunks\\310vm2bl3xxpt.js",
       ".next\\static\\chunks\\19mx3mg6lkumu.js",
       ".next\\static\\chunks\\08ttfj81-47mu.js",
@@ -49,9 +62,9 @@
   },
   {
     "route": "/tier-list",
-    "firstLoadUncompressedJsBytes": 461421,
+    "firstLoadUncompressedJsBytes": 461647,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\0l45a-m9ljvrz.js",
+      ".next\\static\\chunks\\0do-rrmaskjy7.js",
       ".next\\static\\chunks\\310vm2bl3xxpt.js",
       ".next\\static\\chunks\\19mx3mg6lkumu.js",
       ".next\\static\\chunks\\08ttfj81-47mu.js",

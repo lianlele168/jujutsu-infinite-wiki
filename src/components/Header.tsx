@@ -22,6 +22,13 @@ export const Header = () => {
 
           <nav className="flex items-center space-x-1 sm:space-x-4 text-sm font-medium">
             <Link
+              href="/calculator"
+              className="px-3 py-2 rounded-lg text-purple-300 hover:text-white hover:bg-purple-900/40 flex items-center space-x-1.5 transition-colors"
+            >
+              <Sparkles className="w-4 h-4 text-purple-400" />
+              <span>Calculator</span>
+            </Link>
+            <Link
               href="/codes"
               className="px-3 py-2 rounded-lg text-purple-300 hover:text-white hover:bg-purple-900/40 flex items-center space-x-1.5 transition-colors"
             >

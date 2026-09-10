@@ -36,6 +36,20 @@
       }
     }
   },
+  "/calculator": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
   "/codes": {
     "hints": 0,
     "slots": {

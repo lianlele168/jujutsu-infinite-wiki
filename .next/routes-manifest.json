@@ -48,6 +48,12 @@
       "namedRegex": "^/beginner\\-guide(?:/)?$"
     },
     {
+      "page": "/calculator",
+      "regex": "^/calculator(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/calculator(?:/)?$"
+    },
+    {
       "page": "/codes",
       "regex": "^/codes(?:/)?$",
       "routeKeys": {},

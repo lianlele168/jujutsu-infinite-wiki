@@ -5,7 +5,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 51004,
+      "htmlSize": 52523,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -62,7 +62,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 21411,
+      "htmlSize": 23067,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -90,7 +90,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 28442,
+      "htmlSize": 29506,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -114,11 +114,39 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/calculator": {
+      "routeType": "page",
+      "response": "complete",
+      "compute": "static",
+      "htmlSize": 41858,
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/calculator",
+      "dataRoute": "/calculator.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/codes": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 40159,
+      "htmlSize": 41665,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -210,7 +238,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 42279,
+      "htmlSize": 43785,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -238,8 +266,8 @@
   "dynamicRoutes": {},
   "notFoundRoutes": [],
   "preview": {
-    "previewModeId": "df9cc5eb4aed85f76a72449502c7ee29",
-    "previewModeSigningKey": "ab6bd2e018536535ef1e8f1fbbbbcd2fe8f1377e16a83dd8a2489520166f4838",
-    "previewModeEncryptionKey": "f37e6dc610488316f5dd5d4247d0eddaa8252d1ff38a7506998eb02cedfbad67"
+    "previewModeId": "be06017ac6eccaa6dde022d0d619faab",
+    "previewModeSigningKey": "c680be628773777733965112629321cd31932d1075ca6ceda704e496bd03fa27",
+    "previewModeEncryptionKey": "ff8f1bd712779ace1711176f00cbb0c55ce12d1e7404e2795d0dcc37e39c3cec"
   }
 }

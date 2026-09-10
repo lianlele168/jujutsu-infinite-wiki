@@ -2,6 +2,7 @@
   "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
   "/beginner-guide/page": "/beginner-guide",
+  "/calculator/page": "/calculator",
   "/codes/page": "/codes",
   "/page": "/",
   "/robots.txt/route": "/robots.txt",
