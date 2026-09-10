@@ -5,7 +5,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 52523,
+      "htmlSize": 52579,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -90,7 +90,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 29506,
+      "htmlSize": 49098,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -238,7 +238,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 43785,
+      "htmlSize": 74984,
       "experimentalBypassFor": [
         {
           "type": "header",

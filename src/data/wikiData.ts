@@ -63,6 +63,7 @@ export const EXPIRED_CODES: CodeItem[] = [
 ];
 
 export const TIER_LIST: TierItem[] = [
+  // S+ Tier
   {
     name: "Limitless & Six Eyes",
     tier: "S+",
@@ -79,11 +80,13 @@ export const TIER_LIST: TierItem[] = [
   },
   {
     name: "Ten Shadows Technique",
-    tier: "S",
+    tier: "S+",
     type: "Innate Technique",
     description: "Summon divine shikigami including Divine Dog, Nue, and Mahoraga for auto-adapting battle support.",
-    stats: "DPS: 92/100 | Versatility: 99/100 | Summon: S"
+    stats: "DPS: 95/100 | Versatility: 99/100 | Summon: S"
   },
+
+  // S Tier
   {
     name: "Idle Transfiguration",
     tier: "S",
@@ -93,11 +96,27 @@ export const TIER_LIST: TierItem[] = [
   },
   {
     name: "Star Rage",
-    tier: "A",
+    tier: "S",
     type: "Innate Technique",
     description: "Infuse virtual mass into physical strikes to break through any barrier with black hole capability.",
-    stats: "DPS: 88/100 | Burst: 95/100 | Range: B"
+    stats: "DPS: 94/100 | Burst: 96/100 | Range: B"
   },
+  {
+    name: "Blood Manipulation",
+    tier: "S",
+    type: "Innate Technique",
+    description: "Piercing Blood hyper-density laser attacks, Convergence orbs, and Flowing Red Scale physical buffs.",
+    stats: "DPS: 89/100 | Range: S | Snipe: S"
+  },
+  {
+    name: "Cursed Speech",
+    tier: "S",
+    type: "Innate Technique",
+    description: "Immobilize or crush targets with verbal commands (Stop, Blast Away, Plummet). Inflicts vocal throat damage.",
+    stats: "DPS: 84/100 | CC: 99/100 | Team: S"
+  },
+
+  // A Tier
   {
     name: "Disaster Flames",
     tier: "A",
@@ -106,11 +125,92 @@ export const TIER_LIST: TierItem[] = [
     stats: "DPS: 85/100 | AoE: 90/100 | Range: A"
   },
   {
+    name: "Disaster Tides",
+    tier: "A",
+    type: "Innate Technique",
+    description: "High-pressure ocean waves, carnivorous shikigami fish swarm, and Horizon of the Captivating Skandha domain.",
+    stats: "DPS: 82/100 | AoE: 92/100 | Control: A"
+  },
+  {
+    name: "Disaster Plants",
+    tier: "A",
+    type: "Innate Technique",
+    description: "Root manipulation, cursed bud parasitic drain, and wooden petal shield defense.",
+    stats: "DPS: 80/100 | Defense: 88/100 | CC: A"
+  },
+  {
+    name: "Boogie Woogie",
+    tier: "A",
+    type: "Innate Technique",
+    description: "Instant position swapping upon clapping hands with any entity infused with cursed energy.",
+    stats: "DPS: 78/100 | Mindgame: 99/100 | Co-op: S"
+  },
+  {
+    name: "Ratio Technique",
+    tier: "A",
+    type: "Innate Technique",
+    description: "Divides enemy hitboxes into a 7:3 ratio to force guaranteed critical strikes on precision hits.",
+    stats: "DPS: 87/100 | Crit: 99/100 | Single-Target: S"
+  },
+  {
+    name: "Heavenly Restriction",
+    tier: "A",
+    type: "Innate Technique",
+    description: "Zero cursed energy in exchange for superhuman physical agility, 100% domain immunity, and weapon master buffs.",
+    stats: "DPS: 86/100 | Speed: 100/100 | Armor: S"
+  },
+
+  // B Tier
+  {
     name: "Straw Doll Technique",
     tier: "B",
     type: "Innate Technique",
     description: "Resonance and Hairpin curse mark triggers from a distance using nails and hammer.",
     stats: "DPS: 75/100 | Range: A | CC: B"
+  },
+  {
+    name: "Blazing Courage",
+    tier: "B",
+    type: "Innate Technique",
+    description: "Rapid explosive fist charges with fiery trail shockwaves.",
+    stats: "DPS: 72/100 | Speed: B | Combo: B"
+  },
+
+  // Cursed Tools Tier
+  {
+    name: "Inverted Spear of Heaven",
+    tier: "S+",
+    type: "Weapon",
+    description: "Special grade dagger that completely nullifies any active cursed technique or barrier upon contact.",
+    stats: "Nullification: 100% | Attack: S | Piercing: S"
+  },
+  {
+    name: "Playful Cloud",
+    tier: "S",
+    type: "Weapon",
+    description: "Three-section staff that scales damage directly with pure physical user strength.",
+    stats: "Impact: S+ | Knockback: S | Cursed Energy: None"
+  },
+  {
+    name: "Split Soul Katana",
+    tier: "S",
+    type: "Weapon",
+    description: "Bypasses all physical armor and directly cuts the soul of the opponent.",
+    stats: "True Damage: 100% | Sharpness: S | Range: B"
+  },
+  {
+    name: "Dragon Bone",
+    tier: "A",
+    type: "Weapon",
+    description: "Absorbs opponent kinetic force and expels it as explosive kinetic propulsion.",
+    stats: "Counter: S | Kinetic Burst: A | Guard: A"
+  },
+  {
+    name: "Kamutoke (Vajra Dagger)",
+    tier: "S",
+    type: "Weapon",
+    description: "Mythical lightning dagger used by Sukuna to summon lightning storm cascades.",
+    stats: "AoE: S | Shock Stun: S | Range: A"
   }
 ];
 

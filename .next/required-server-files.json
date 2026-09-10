@@ -105,7 +105,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "D:\\AI建站\\jujutsu-infinite-wiki",
+    "outputFileTracingRoot": "d:\\AI建站\\jujutsu-infinite-wiki",
     "enablePrerenderSourceMaps": true,
     "cacheComponents": false,
     "cacheLife": {
@@ -320,13 +320,13 @@
     "htmlLimitedBots": "[\\w-]+-Google|Google-[\\w-]+|Chrome-Lighthouse|Slurp|DuckDuckBot|baiduspider|yandex|sogou|bitlybot|tumblr|vkShare|quora link preview|redditbot|ia_archiver|Bingbot|BingPreview|applebot|facebookexternalhit|facebookcatalog|Twitterbot|LinkedInBot|Slackbot|Discordbot|WhatsApp|SkypeUriPreview|Yeti|googleweblight",
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
-    "repoRoot": "D:\\AI建站\\jujutsu-infinite-wiki",
+    "repoRoot": "d:\\AI建站\\jujutsu-infinite-wiki",
     "turbopack": {
-      "root": "D:\\AI建站\\jujutsu-infinite-wiki"
+      "root": "d:\\AI建站\\jujutsu-infinite-wiki"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "D:\\AI建站\\jujutsu-infinite-wiki",
+  "appDir": "d:\\AI建站\\jujutsu-infinite-wiki",
   "relativeAppDir": "",
   "files": [
     ".next\\package.json",
