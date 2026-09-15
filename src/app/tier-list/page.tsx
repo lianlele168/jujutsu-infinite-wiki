@@ -25,6 +25,24 @@ export default function TierListPage() {
         </p>
       </div>
 
+      {/* Technique Awakening Screenshot Showcase */}
+      <div className="relative rounded-2xl overflow-hidden border border-purple-500/30 shadow-2xl bg-slate-900/60 aspect-video max-w-4xl mx-auto my-6">
+        <img
+          src="/images/jujutsu-infinite-techniques.webp"
+          alt="Roblox Jujutsu Infinite Limitless Infinity Hollow Purple Technique Awakening in Shibuya"
+          className="w-full h-full object-cover"
+          loading="lazy"
+        />
+        <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-slate-950/90 via-slate-950/50 to-transparent p-4 flex items-center justify-between">
+          <div className="text-xs sm:text-sm text-slate-200 font-medium">
+            <span className="text-purple-400 font-bold">Technique Awakening</span> — Limitless Infinity Red & Blue convergence in Shibuya
+          </div>
+          <span className="px-2.5 py-1 bg-amber-500/20 text-amber-300 text-[11px] rounded-lg border border-amber-500/30">
+            S+ Tier God Ranking
+          </span>
+        </div>
+      </div>
+
       <div className="space-y-8">
         {tiers.map((tierGrade) => {
           const items = TIER_LIST.filter((t) => t.tier === tierGrade);

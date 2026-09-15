@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Flame, ShieldAlert, Trophy, ArrowRight, Check, Copy } from 'lucide-react';
 import { GAME_INFO, ACTIVE_CODES, TIER_LIST, FAQ_ITEMS, HOWTO_STEPS } from '@/data/wikiData';
 import StructuredData from '@/components/StructuredData';
+import AuthorCard from '@/components/AuthorCard';
 
 export default function Home() {
   return (
@@ -26,9 +27,40 @@ export default function Home() {
           <h1 className="text-4xl sm:text-6xl font-black text-white tracking-tight mb-4">
             Roblox <span className="gradient-text">Jujutsu Infinite</span> Wiki
           </h1>
-          <p className="max-w-2xl mx-auto text-gray-400 text-base sm:text-lg mb-8 leading-relaxed">
+          <p className="max-w-2xl mx-auto text-gray-400 text-base sm:text-lg mb-6 leading-relaxed">
             {GAME_INFO.description}
           </p>
+
+          {/* Author Card */}
+          <div className="max-w-3xl mx-auto text-left">
+            <AuthorCard
+              authorName="Kenji Satoru"
+              role="Special Grade Sorcerer & Domain Mechanics Analyst"
+              experience="Level 120 Max Sorcerer & 350+ Hours"
+              patchVersion="Update 1 Meta Patch Verified"
+              lastUpdated="September 2026"
+              editorialNote="All cursed energy consumption curves, Black Flash critical multiplier chances, and Domain Expansion clash algorithms are verified in live PvP combat."
+            />
+          </div>
+
+          {/* Domain Expansion Screenshot Showcase */}
+          <div className="relative rounded-2xl overflow-hidden border border-purple-500/30 shadow-2xl bg-slate-900/60 aspect-video max-w-4xl mx-auto my-6">
+            <img
+              src="/images/jujutsu-infinite-domain.webp"
+              alt="Roblox Jujutsu Infinite Malevolent Shrine Domain Expansion and Black Flash Combat"
+              className="w-full h-full object-cover"
+              loading="lazy"
+            />
+            <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-slate-950/90 via-slate-950/50 to-transparent p-4 flex items-center justify-between">
+              <div className="text-xs sm:text-sm text-slate-200 font-medium">
+                <span className="text-purple-400 font-bold">Domain Clash</span> — Malevolent Shrine barrier unfolding & Black Flash critical strikes
+              </div>
+              <span className="px-2.5 py-1 bg-purple-500/20 text-purple-300 text-[11px] rounded-lg border border-purple-500/30">
+                Special Grade Verified
+              </span>
+            </div>
+          </div>
+
           <div className="flex flex-wrap items-center justify-center gap-4">
             <Link
               href="/codes"
