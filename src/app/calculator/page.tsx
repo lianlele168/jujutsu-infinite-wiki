@@ -7,12 +7,12 @@ export const metadata: Metadata = {
   title: 'Jujutsu Infinite Calculator: Innate Technique Spin Simulator & DPS Calculator',
   description: 'Interactive Roblox Jujutsu Infinite simulator. Simulate Innate Technique rolls for Six Eyes & Limitless, calculate Demon Finger spins, and test Cursed Technique DPS damage scaling.',
   alternates: {
-    canonical: 'https://jujutsuinfinite.robloxwikihub.com/calculator/',
+    canonical: 'https://jujutsuinfinite.robloxwikihub.com/calculator',
   },
   openGraph: {
     title: 'Jujutsu Infinite Technique Spin Simulator & DPS Calculator',
     description: 'Simulate spins for Limitless and Malevolent Shrine, and calculate damage scaling.',
-    url: 'https://jujutsuinfinite.robloxwikihub.com/calculator/',
+    url: 'https://jujutsuinfinite.robloxwikihub.com/calculator',
     type: 'website',
   },
 };
@@ -22,7 +22,7 @@ export default function CalculatorPage() {
     '@context': 'https://schema.org',
     '@type': 'WebApplication',
     name: 'Jujutsu Infinite Technique Spin Simulator & DPS Calculator',
-    url: 'https://jujutsuinfinite.robloxwikihub.com/calculator/',
+    url: 'https://jujutsuinfinite.robloxwikihub.com/calculator',
     applicationCategory: 'GameApplication',
     operatingSystem: 'All',
     offers: {

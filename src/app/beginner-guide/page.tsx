@@ -3,6 +3,10 @@ import Link from 'next/link';
 import { BookOpen, Sparkles, Shield, Flame, Zap, Trophy, HelpCircle } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: '/beginner-guide',
+  },
+
   title: 'Jujutsu Infinite Beginner Guide — Fast Leveling 1 to 200 & Domain Expansion',
   description: 'Complete Roblox Jujutsu Infinite progression guide. Learn how to level up rapidly, farm Demon Fingers in Shibuya Raids, optimize Cursed Energy stats, and unlock Domain Expansion.',
   keywords: ['jujutsu infinite beginner guide', 'jujutsu infinite leveling guide', 'how to get domain expansion jujutsu infinite', 'jujutsu infinite demon fingers']
