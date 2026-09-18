@@ -7,7 +7,7 @@ export const metadata = {
     canonical: '/tier-list',
   },
 
-  title: 'Jujutsu Infinite Innate Technique Tier List (September 2026 Update 1)',
+  title: 'Jujutsu Infinite Innate Technique Tier List ( Update 1)',
   description: 'Best Innate Techniques & Domain Expansions ranked in Roblox Jujutsu Infinite. S+ to B tier list for PvP & Boss Raids.',
 };
 
@@ -22,7 +22,7 @@ export default function TierListPage() {
           <span>Update 1 Meta Ranking</span>
         </div>
         <h1 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
-          Jujutsu Infinite Technique Tier List (September 2026)
+          Jujutsu Infinite Technique Tier List 
         </h1>
         <p className="text-gray-400 text-sm mt-2">
           Rankings based on PvP burst damage, Domain Expansion barrier strength, and Boss Raid DPS.

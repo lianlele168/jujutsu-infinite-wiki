@@ -27,7 +27,7 @@ export const StructuredData: React.FC<StructuredDataProps> = ({ faq, howTo }) =>
     schemas.push({
       '@context': 'https://schema.org',
       '@type': 'FAQPage',
-      dateModified: '2026-09-15',
+
       author: {
         '@type': 'Person',
         name: 'Kenji Satoru',

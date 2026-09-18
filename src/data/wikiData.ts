@@ -16,7 +16,7 @@ export interface TierItem {
 export const GAME_INFO = {
   title: "Jujutsu Infinite Wiki",
   subtitle: "The Ultimate Guide for Roblox Jujutsu Infinite (Update 1)",
-  description: "Get active Jujutsu Infinite codes, Innate Technique tier lists, Domain Expansion guides, and beginner tips updated daily for August 2026.",
+  description: "Get active Jujutsu Infinite codes, Innate Technique tier lists, Domain Expansion guides, and beginner tips updated daily for .",
   url: "https://jujutsuinfinite.robloxwikihub.com"
 };
 
@@ -25,25 +25,25 @@ export const ACTIVE_CODES: CodeItem[] = [
     code: "UPDATE1_RELEASE",
     rewards: "100 Demon Fingers, 50 Clan Spins, 10,000 Yen",
     status: "active",
-    addedDate: "2026-08-27"
+    addedDate: ""
   },
   {
     code: "INFINITE_SPINS_500K",
     rewards: "75 Innate Spins, 25 Stat Resets",
     status: "active",
-    addedDate: "2026-08-27"
+    addedDate: ""
   },
   {
     code: "SIX_EYES_GOJO",
     rewards: "30 Clan Spins, Double EXP (2 Hours)",
     status: "active",
-    addedDate: "2026-08-27"
+    addedDate: ""
   },
   {
     code: "CURSED_ENERGY_BOOST",
     rewards: "5,000 Yen, 20 Demon Fingers",
     status: "active",
-    addedDate: "2026-08-27"
+    addedDate: ""
   }
 ];
 
@@ -52,13 +52,13 @@ export const EXPIRED_CODES: CodeItem[] = [
     code: "BETA_TESTER_100K",
     rewards: "50 Spins",
     status: "expired",
-    addedDate: "2026-06-15"
+    addedDate: ""
   },
   {
     code: "RELEASE_DAY_JJI",
     rewards: "10K Cash",
     status: "expired",
-    addedDate: "2026-05-20"
+    addedDate: ""
   }
 ];
 

@@ -14,7 +14,7 @@ export default function AuthorCard({
   role = 'Special Grade Sorcerer & Domain Mechanics Analyst',
   experience = 'Level 120 Max Sorcerer & 350+ Hours',
   patchVersion = 'Update 1 Meta Patch Verified',
-  lastUpdated = 'September 2026',
+  lastUpdated = '',
   editorialNote = 'All cursed energy consumption curves, Black Flash critical multiplier chances, and Domain Expansion clash algorithms are verified in live PvP combat.',
 }: AuthorCardProps) {
   return (
@@ -41,9 +41,7 @@ export default function AuthorCard({
           <span className="inline-flex items-center px-2.5 py-1 rounded-lg text-xs font-medium bg-purple-500/10 text-purple-300 border border-purple-500/20">
             ⚡ {patchVersion}
           </span>
-          <span className="text-xs text-slate-400">
-            Updated: <strong className="text-slate-200">{lastUpdated}</strong>
-          </span>
+          
         </div>
       </div>
 

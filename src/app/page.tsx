@@ -29,7 +29,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
           <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-purple-900/40 border border-purple-700/50 text-purple-300 text-xs font-semibold mb-6">
             <Flame className="w-4 h-4 text-purple-400" />
-            <span>Update 1 Is Live — September 2026</span>
+            <span>Update 1 Is Live — </span>
           </div>
           <h1 className="text-4xl sm:text-6xl font-black text-white tracking-tight mb-4">
             Roblox <span className="gradient-text">Jujutsu Infinite</span> Wiki
@@ -45,7 +45,6 @@ export default function Home() {
               role="Special Grade Sorcerer & Domain Mechanics Analyst"
               experience="Level 120 Max Sorcerer & 350+ Hours"
               patchVersion="Update 1 Meta Patch Verified"
-              lastUpdated="September 2026"
               editorialNote="All cursed energy consumption curves, Black Flash critical multiplier chances, and Domain Expansion clash algorithms are verified in live PvP combat."
             />
           </div>
@@ -93,7 +92,7 @@ export default function Home() {
           <div>
             <h2 className="text-2xl font-bold text-white flex items-center gap-2">
               <ShieldAlert className="w-6 h-6 text-cyan-400" />
-              Latest Active Codes (September 2026)
+              Latest Active Codes 
             </h2>
             <p className="text-xs text-gray-400">Tested & Working in Update 1</p>
           </div>

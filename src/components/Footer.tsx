@@ -15,7 +15,7 @@ export const Footer = () => {
           <div>
             <h4 className="text-purple-300 font-semibold text-sm mb-2">Quick Navigation</h4>
             <ul className="space-y-1 text-xs">
-              <li><Link href="/codes" className="hover:text-purple-400 transition-colors">Active Codes (August 2026)</Link></li>
+              <li><Link href="/codes" className="hover:text-purple-400 transition-colors">Active Codes </Link></li>
               <li><Link href="/tier-list" className="hover:text-purple-400 transition-colors">Innate Technique Tier List</Link></li>
               <li><Link href="/beginner-guide" className="hover:text-purple-400 transition-colors">Beginner Leveling Guide</Link></li>
             </ul>

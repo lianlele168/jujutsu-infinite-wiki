@@ -16,7 +16,7 @@ export const Header = () => {
               <span className="font-extrabold text-lg text-white tracking-wider flex items-center gap-1.5">
                 JUJUTSU INFINITE <span className="text-xs px-2 py-0.5 bg-purple-900/60 text-purple-300 rounded-full border border-purple-700/50">WIKI</span>
               </span>
-              <p className="text-[10px] text-gray-400 tracking-tight">August 2026 Update 1 Database</p>
+              <p className="text-[10px] text-gray-400 tracking-tight"> Update 1 Database</p>
             </div>
           </Link>
 

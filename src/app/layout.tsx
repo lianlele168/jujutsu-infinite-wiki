@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://jujutsuinfinite.robloxwikihub.com'),
-  title: 'Jujutsu Infinite Codes & Tier List (September 2026 Update 1) - Roblox Wiki',
+  title: 'Jujutsu Infinite Codes & Tier List ( Update 1) - Roblox Wiki',
   description: 'Find active Jujutsu Infinite codes, Innate Technique tier lists, Domain Expansion guides, and secret tips for Roblox Jujutsu Infinite.',
   keywords: ['Jujutsu Infinite codes', 'Jujutsu Infinite tier list', 'Roblox Jujutsu Infinite', 'JJI codes 2026', 'Limitless Six Eyes Jujutsu Infinite'],
   robots: {
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     icon: '/favicon.svg',
   },
   openGraph: {
-    title: 'Jujutsu Infinite Codes & Tier List (September 2026)',
+    title: 'Jujutsu Infinite Codes & Tier List ',
     description: 'Get free Demon Fingers, Clan Spins, and Yen in Roblox Jujutsu Infinite with daily updated codes.',
     type: 'website',
     url: 'https://jujutsuinfinite.robloxwikihub.com',

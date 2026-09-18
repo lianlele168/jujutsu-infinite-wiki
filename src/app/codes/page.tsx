@@ -8,8 +8,8 @@ export const metadata = {
     canonical: '/codes',
   },
 
-  title: 'Jujutsu Infinite Codes (September 2026) - Free Spins & Demon Fingers',
-  description: 'Full list of active Jujutsu Infinite codes for September 2026. Get free clan spins, Demon Fingers, and Yen rewards.',
+  title: 'Jujutsu Infinite Codes - Free Spins & Demon Fingers',
+  description: 'Full list of active Jujutsu Infinite codes for . Get free clan spins, Demon Fingers, and Yen rewards.',
 };
 
 export default function CodesPage() {
@@ -30,7 +30,7 @@ export default function CodesPage() {
           <span>Updated Daily for Update 1</span>
         </div>
         <h1 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
-          Roblox Jujutsu Infinite Codes (September 2026)
+          Roblox Jujutsu Infinite Codes 
         </h1>
         <p className="text-gray-400 text-sm mt-2">
           Redeem these official promo codes for free Clan Spins, Demon Fingers, Stat Resets, and Yen!
