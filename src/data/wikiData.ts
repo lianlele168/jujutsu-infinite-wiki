@@ -22,44 +22,52 @@ export const GAME_INFO = {
 
 export const ACTIVE_CODES: CodeItem[] = [
   {
-    code: "UPDATE1_RELEASE",
-    rewards: "100 Demon Fingers, 50 Clan Spins, 10,000 Yen",
+    code: "HELLO_JJI",
+    rewards: "50 Spins",
     status: "active",
     addedDate: ""
   },
   {
-    code: "INFINITE_SPINS_500K",
-    rewards: "75 Innate Spins, 25 Stat Resets",
+    code: "400K_SUBS",
+    rewards: "50 Spins",
     status: "active",
     addedDate: ""
   },
   {
-    code: "SIX_EYES_GOJO",
-    rewards: "30 Clan Spins, Double EXP (2 Hours)",
+    code: "JUDGEMAN_REWORK",
+    rewards: "50 Spins (older sources list an April expiry — test in game)",
     status: "active",
     addedDate: ""
   },
   {
-    code: "CURSED_ENERGY_BOOST",
-    rewards: "5,000 Yen, 20 Demon Fingers",
+    code: "JUDGE_SOON",
+    rewards: "50 Spins (older sources list an April expiry — test in game)",
     status: "active",
     addedDate: ""
   }
 ];
 
 export const EXPIRED_CODES: CodeItem[] = [
-  {
-    code: "BETA_TESTER_100K",
-    rewards: "50 Spins",
-    status: "expired",
-    addedDate: ""
-  },
-  {
-    code: "RELEASE_DAY_JJI",
-    rewards: "10K Cash",
-    status: "expired",
-    addedDate: ""
-  }
+  { code: "LUNAR_FAREWELL", rewards: "50 Spins", status: "expired", addedDate: "" },
+  { code: "300K_SUBS", rewards: "50 Spins", status: "expired", addedDate: "" },
+  { code: "1M_MEMBERS", rewards: "200 Spins", status: "expired", addedDate: "" },
+  { code: "LUNAR_2026", rewards: "50 Spins", status: "expired", addedDate: "" },
+  { code: "WINTER_END", rewards: "50 Spins", status: "expired", addedDate: "" },
+  { code: "1M_LIKES", rewards: "50 Spins", status: "expired", addedDate: "" },
+  { code: "SHOWDOWN_SORRY!", rewards: "50 Spins + 10k cash", status: "expired", addedDate: "" },
+  { code: "SOUL_KING_OUT", rewards: "100 Spins", status: "expired", addedDate: "" },
+  { code: "HAPPY_2026", rewards: "100 Spins", status: "expired", addedDate: "" },
+  { code: "2025_CHRISTMAS", rewards: "50 Spins", status: "expired", addedDate: "" },
+  { code: "EXCHANGE_20K", rewards: "100 Spins", status: "expired", addedDate: "" },
+  { code: "ITS_DECEMBER", rewards: "50 Spins", status: "expired", addedDate: "" },
+  { code: "HAPPY_THANKSGIVING", rewards: "100 Spins", status: "expired", addedDate: "" },
+  { code: "HAPPY_HALLOWEEN", rewards: "100 Spins", status: "expired", addedDate: "" },
+  { code: "HELLO_FRIENDS", rewards: "100 Spins", status: "expired", addedDate: "" },
+  { code: "PLANT_MANIP_OUT", rewards: "100 Spins", status: "expired", addedDate: "" },
+  { code: "THUNDER_GOD", rewards: "150 Spins", status: "expired", addedDate: "" },
+  { code: "MECH_MAX", rewards: "150 Spins", status: "expired", addedDate: "" },
+  { code: "ANCIENT_CONSTRUCT", rewards: "200 Spins", status: "expired", addedDate: "" },
+  { code: "SIX_EYED_CALAMITY", rewards: "200 Spins", status: "expired", addedDate: "" }
 ];
 
 export const TIER_LIST: TierItem[] = [

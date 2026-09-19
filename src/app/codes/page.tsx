@@ -27,7 +27,7 @@ export default function CodesPage() {
       <div className="border-b border-purple-900/30 pb-6">
         <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-cyan-950/60 border border-cyan-800/50 text-cyan-300 text-xs font-semibold mb-3">
           <ShieldAlert className="w-3.5 h-3.5" />
-          <span>Updated Daily for Update 1</span>
+          <span>Codes verified at each game update</span>
         </div>
         <h1 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
           Roblox Jujutsu Infinite Codes 

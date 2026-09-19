@@ -29,7 +29,7 @@ export const Footer = () => {
         </div>
         <div className="mt-8 pt-6 border-t border-purple-900/20 flex flex-col sm:flex-row items-center justify-between text-xs text-gray-500">
           <p>© 2026 Jujutsu Infinite Wiki. Not affiliated with Roblox Corporation or Gege Akutami.</p>
-          <p className="mt-2 sm:mt-0">Updated Daily for Update 1</p>
+          <p className="mt-2 sm:mt-0">Codes verified at each game update</p>
         </div>
       </div>
     </footer>
