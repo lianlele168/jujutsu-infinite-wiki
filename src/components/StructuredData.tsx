@@ -30,8 +30,8 @@ export const StructuredData: React.FC<StructuredDataProps> = ({ faq, howTo }) =>
 
       author: {
         '@type': 'Person',
-        name: 'Kenji Satoru',
-        jobTitle: 'Special Grade Sorcerer & Domain Analyst',
+        name: 'Hlele',
+        jobTitle: 'Editor',
       },
       mainEntity: faq.map((item) => ({
         '@type': 'Question',

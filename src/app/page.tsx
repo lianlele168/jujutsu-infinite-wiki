@@ -41,11 +41,11 @@ export default function Home() {
           {/* Author Card */}
           <div className="max-w-3xl mx-auto text-left">
             <AuthorCard
-              authorName="Kenji Satoru"
-              role="Special Grade Sorcerer & Domain Mechanics Analyst"
-              experience="Level 120 Max Sorcerer & 350+ Hours"
+              authorName="Hlele"
+              role="Editor"
+              experience="AI-assisted research, human-reviewed"
               patchVersion="Update 1 Meta Patch Verified"
-              editorialNote="All cursed energy consumption curves, Black Flash critical multiplier chances, and Domain Expansion clash algorithms are verified in live PvP combat."
+              editorialNote="All data is cross-verified from multiple sources; unverified values are explicitly labeled."
             />
           </div>
 

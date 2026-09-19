@@ -10,12 +10,12 @@ interface AuthorCardProps {
 }
 
 export default function AuthorCard({
-  authorName = 'Kenji Satoru',
-  role = 'Special Grade Sorcerer & Domain Mechanics Analyst',
-  experience = 'Level 120 Max Sorcerer & 350+ Hours',
+  authorName = 'Hlele',
+  role = 'Editor',
+  experience = 'AI-assisted research, human-reviewed',
   patchVersion = 'Update 1 Meta Patch Verified',
   lastUpdated = '',
-  editorialNote = 'All cursed energy consumption curves, Black Flash critical multiplier chances, and Domain Expansion clash algorithms are verified in live PvP combat.',
+  editorialNote = 'All data is cross-verified from multiple sources; unverified values are explicitly labeled.',
 }: AuthorCardProps) {
   return (
     <div className="w-full rounded-2xl bg-gray-900/60 border border-purple-500/20 p-4 sm:p-5 backdrop-blur-md my-6 text-left shadow-lg">

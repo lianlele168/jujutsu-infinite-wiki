@@ -25,6 +25,9 @@ export const Footer = () => {
             <p className="text-xs text-gray-400">
               Unofficial fan-made wiki created for Roblox Jujutsu Infinite players. All game assets belong to their respective creators.
             </p>
+            <p className="text-xs text-gray-500 mt-2">
+              Content AI-assisted, human-reviewed · Data sources cited on page · Contact: lianlele168@gmail
+            </p>
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-purple-900/20 flex flex-col sm:flex-row items-center justify-between text-xs text-gray-500">
