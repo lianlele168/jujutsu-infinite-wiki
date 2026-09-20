@@ -44,7 +44,7 @@ export default function Home() {
               authorName="Hlele"
               role="Editor"
               experience="AI-assisted research, human-reviewed"
-              patchVersion="Update 1 Meta Patch Verified"
+              patchVersion="Update 1 Meta Patch"
               editorialNote="All data is cross-verified from multiple sources; unverified values are explicitly labeled."
             />
           </div>

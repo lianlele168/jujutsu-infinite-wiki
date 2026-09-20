@@ -16,7 +16,7 @@ export interface TierItem {
 export const GAME_INFO = {
   title: "Jujutsu Infinite Wiki",
   subtitle: "The Ultimate Guide for Roblox Jujutsu Infinite (Update 1)",
-  description: "Get active Jujutsu Infinite codes, Innate Technique tier lists, Domain Expansion guides, and beginner tips updated daily for .",
+  description: "Get active Jujutsu Infinite codes, Innate Technique tier lists, Domain Expansion guides, and beginner tips.",
   url: "https://jujutsuinfinite.robloxwikihub.com"
 };
 

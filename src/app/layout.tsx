@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Jujutsu Infinite Codes & Tier List ',
-    description: 'Get free Demon Fingers, Clan Spins, and Yen in Roblox Jujutsu Infinite with daily updated codes.',
+    description: 'Get free Demon Fingers, Clan Spins, and Yen in Roblox Jujutsu Infinite with active codes.',
     type: 'website',
     url: 'https://jujutsuinfinite.robloxwikihub.com',
   },
