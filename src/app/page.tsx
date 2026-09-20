@@ -62,7 +62,7 @@ export default function Home() {
                 <span className="text-purple-400 font-bold">Domain Clash</span> — Malevolent Shrine barrier unfolding & Black Flash critical strikes
               </div>
               <span className="px-2.5 py-1 bg-purple-500/20 text-purple-300 text-[11px] rounded-lg border border-purple-500/30">
-                Special Grade Verified
+                Special Grade
               </span>
             </div>
           </div>
