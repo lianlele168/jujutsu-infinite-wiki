@@ -7,7 +7,7 @@ export const metadata = {
     canonical: '/tier-list',
   },
 
-  title: 'Jujutsu Infinite Innate Technique Tier List ( Update 1)',
+  title: 'Jujutsu Infinite Innate Technique Tier List (Update 1)',
   description: 'Best Innate Techniques & Domain Expansions ranked in Roblox Jujutsu Infinite. S+ to B tier list for PvP & Boss Raids.',
 };
 
@@ -16,6 +16,10 @@ export default function TierListPage() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({ '@context': 'https://schema.org', '@type': 'WebPage', name: 'Jujutsu Infinite Innate Technique Tier List (Update 1)', description: 'Best Innate Techniques & Domain Expansions ranked in Roblox Jujutsu Infinite. S+ to B tier list for PvP & Boss Raids.', url: 'https://jujutsuinfinite.robloxwikihub.com/tier-list' }) }}
+      />
       <div className="border-b border-purple-900/30 pb-6">
         <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-yellow-950/60 border border-yellow-800/50 text-yellow-300 text-xs font-semibold mb-3">
           <Trophy className="w-3.5 h-3.5" />
